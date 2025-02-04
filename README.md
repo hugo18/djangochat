@@ -1,1 +1,1 @@
-Nesse projeto eu segui o tutorial desse vídeo: https://www.youtube.com/watch?app=desktop&v=SF1k_Twr9cg&t=0s. Fiz só algumas pequenas alterações.
+Nesse projeto eu segui o tutorial desse vídeo: https://www.youtube.com/watch?app=desktop&v=SF1k_Twr9cg&t=0s. Fiz só algumas pequenas alterações. Um complemento interessante é esse outro vídeo que explica Django Channels e WebSockets: https://www.youtube.com/watch?v=cw8-KFVXpTE. 
